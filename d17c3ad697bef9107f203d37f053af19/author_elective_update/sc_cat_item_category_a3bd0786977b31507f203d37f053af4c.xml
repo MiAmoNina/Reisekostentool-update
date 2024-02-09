@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Reisekosten erstellen">819c8b86973b31507f203d37f053af35</sc_cat_item>
+        <sc_category display_value="Reisekosten">11ad8386977b31507f203d37f053af1f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-19 14:18:45</sys_created_on>
+        <sys_id>a3bd0786977b31507f203d37f053af4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reisekosten.Reisekosten erstellen</sys_name>
+        <sys_package display_value="Reisekosten" source="d17c3ad697bef9107f203d37f053af19">d17c3ad697bef9107f203d37f053af19</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reisekosten">d17c3ad697bef9107f203d37f053af19</sys_scope>
+        <sys_update_name>sc_cat_item_category_a3bd0786977b31507f203d37f053af4c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-19 14:18:45</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reisekosten">d17c3ad697bef9107f203d37f053af19</application>
+        <file_path/>
+        <instance_id>ae995d91db8be490f37acac505961921</instance_id>
+        <instance_name>dev107779</instance_name>
+        <name>sc_cat_item_category_a3bd0786977b31507f203d37f053af4c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Reisekosten erstellen">819c8b86973b31507f203d37f053af35</sc_cat_item><sc_category display_value="Reisekosten">11ad8386977b31507f203d37f053af1f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-19 14:18:45</sys_created_on><sys_id>a3bd0786977b31507f203d37f053af4c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Reisekosten.Reisekosten erstellen</sys_name><sys_package display_value="Reisekosten" source="d17c3ad697bef9107f203d37f053af19">d17c3ad697bef9107f203d37f053af19</sys_package><sys_policy/><sys_scope display_value="Reisekosten">d17c3ad697bef9107f203d37f053af19</sys_scope><sys_update_name>sc_cat_item_category_a3bd0786977b31507f203d37f053af4c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-19 14:18:45</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-369762440</payload_hash>
+        <record_name>Reisekosten.Reisekosten erstellen</record_name>
+        <reverted_from/>
+        <source>27c2735e97d3bd507f203d37f053afdf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-19 14:18:45</sys_created_on>
+        <sys_id>23bd0786977b31507f203d37f053af50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d2216a1d90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-19 14:18:45</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>67bd0786247b3150b4fd8ad8d5ead44f</update_guid>
+        <update_guid_history>67bd0786247b3150b4fd8ad8d5ead44f:-369762440</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Reisekosten.Reisekosten erstellen">9a425e27978806107f203d37f053af9e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-05 12:05:33</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>181991626e71458b8931e0350891a481</sys_id>
+        <sys_metadata>a3bd0786977b31507f203d37f053af4c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reisekosten.Reisekosten erstellen</sys_name>
+        <sys_package display_value="Reisekosten" source="d17c3ad697bef9107f203d37f053af19">d17c3ad697bef9107f203d37f053af19</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Reisekosten">d17c3ad697bef9107f203d37f053af19</sys_scope>
+        <sys_scope_delete display_value="">5a6dc31175a5483085449b0fdcdb7dd1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_a3bd0786977b31507f203d37f053af4c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_a3bd0786977b31507f203d37f053af4c">23bd0786977b31507f203d37f053af50</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-05 12:05:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -9,7 +9,12 @@
         <element label="Kilometer" max_length="40" name="u_km" type="integer"/>
         <element label="Kosten" max_length="20" name="u_kosten" type="price"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Cost type" max_length="40" name="u_kostenart" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="Auslagen" language="de" value="aus"/>
+                <element inactive_on_update="false" label="Expenses" value="aus"/>
+                <element inactive_on_update="false" label="Reisekosten" language="de" value="reise"/>
+                <element inactive_on_update="false" label="Travel Costs" value="reise"/>
+            </choice>
         </element>
         <element label="Kürzung" max_length="20" name="u_kuerzung" type="currency"/>
         <element attributes="edge_encryption_enabled=true" label="Kurz Beschreibung" max_length="256" name="u_kurz_beschreibung" type="string"/>
